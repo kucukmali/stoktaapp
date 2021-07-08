@@ -1,0 +1,2 @@
+# stoktaapp
+stoktaapp UI
